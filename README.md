@@ -10,4 +10,4 @@ Data-Driven Discovery section of the 2026 ECMWF MOOC.
 Explore causal relationships between Earth-system variables
 using observational time-series data.
 
-[Open the notebook on GitHub](mcausal_tutorial.ipynb) |
+[Open the notebook on GitHub](M_Causal_MOOC.ipynb) |
